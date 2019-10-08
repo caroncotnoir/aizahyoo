@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoosedei.quimsantana.com/sitemap.xml
